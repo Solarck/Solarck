@@ -2,7 +2,7 @@
 
 # <div align="center"> Fernando Carlos</div>
 
-  <h4>Sou desenvolvedor Front-end, tenho 20 anos, e atualmente estou aprimorando minhas habilidades, especificamente, nas linguagens:  JavaScript e Typescript, pretendo fazer o mesmo com php e sql futuramente. </h4>
+  <h4>Sou desenvolvedor Front-end, tenho 20 anos, e atualmente estou aprimorando minhas habilidades, especificamente, nas linguagens:  JavaScript e Typescript, pretendo fazer o mesmo com php e sql/mysql futuramente. </h4>
 
 - 🌱Atualmente estou aprendendo: Typescript
 - :octocat: Pretendo estudar: Vue.js
