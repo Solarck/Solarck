@@ -2,10 +2,10 @@
 
 # <div align="center"> Fernando Carlos</div>
 
-  <h4>Sou desenvolvedor Front-end, tenho 20 anos, e atualmente estou aprimorando minhas habilidades, especificamente, nas linguagens:  JavaScript e Typescript, pretendo fazer o mesmo com php e sql/mysql futuramente. </h4>
+  <h4>Sou desenvolvedor Front-end, tenho 20 anos, ultimamente tenho me dedicado, nas linguagens JavaScript e Typescript, em aprimorar minhas habilidades de resolução de problemas e Frameworks como Svelte (por curiosidade) e futuramente React. Estudo Programação voltada a Web a pouco mais de 1 ano, tenho alguns projetos feitos sozinho e outros com ajuda de alguns cursos online. Estou, aberto e em, busca de uma primeira oportunidade de estágio na area.</h4>
 
-- 🌱Atualmente estou aprendendo: Typescript
-- :octocat: Pretendo estudar: Vue.js
+- 🌱Atualmente estou aprendendo: Svelte com Typescript/JavaScript
+- :octocat: Pretendo estudar: React
 - 📫 Como chegar até mim:
 
 
@@ -24,7 +24,10 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/> 
+  <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/>
+<!--   <img src=""/> -->
 </div>
 
 
